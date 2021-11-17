@@ -1,10 +1,10 @@
 {
     "development": {
-      "apiUrl": "https://product-fair.netlify.app",
+      "apiUrl": "http://localhost:8000",
       "contentApiKey": "9cc5c67c358edfdd81455149d0"
     },
     "production": {
-      "apiUrl": "https://product-fair.netlify.app",
-      "contentApiKey": "9cc5c67c358edfdd81455149d0"
+      "apiUrl": "https://producktfair.ghost.io",
+      "contentApiKey": "2d2580d2e190caa3cb7b481682"
     }
   }
